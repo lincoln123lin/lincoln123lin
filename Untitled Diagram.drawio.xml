@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T05:13:21.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hzVN9k5VfxeuOuN62bHv" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T05:15:16.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uQUDDbVTMWJHuBuBymQa" version="16.2.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1017" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;%email%" name="Maria Tan" location="None" email="me@example.com" placeholders="1" phone="" position="2nd Daughter" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="1" vertex="1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=0;treeFolding=1;snapToPoint=1;collapsible=0;" parent="1" vertex="1">
             <mxGeometry x="490" y="450" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
@@ -41,7 +41,7 @@
             <mxGeometry x="210" y="450" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="29kbHIxgGRxUB5gpd70w-10" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="29kbHIxgGRxUB5gpd70w-10" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="490" y="710" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;snapToPoint=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
