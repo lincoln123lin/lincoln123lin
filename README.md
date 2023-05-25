@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lincoln
 - 👀 I’m interested in ANYthing
-- 🌱 I’m currently learning EVERYthing 
-- 💞️ I’m looking to collaborate on SOMEthing
-- 📫 Reach out on my repos
+- 🌱 I’m learning EVERYthing 
+- 💞️ I’m looking for SOMEthing
+- 📫 Reach out for collabs via PM
 
 <!---
 lincoln123lin/lincoln123lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
