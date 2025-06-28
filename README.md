@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lincoln
-- 👀 I’m interested in ANYthing
-- 🌱 I’m learning EVERYthing 
-- 💞️ I’m looking for SOMEthing
+- 👀 Lifelong Learning Believer
+- 🌱 Experience in Cybersecurity | AI | Infra & Networking | DevOps 
+- 💞️ Finding/Building tools to enhance one's life 
 - 📫 Reach out for collabs via PM
 
 <!---
